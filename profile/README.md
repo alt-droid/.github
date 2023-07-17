@@ -7,7 +7,7 @@
   by the admin using the tools on https://gitlab.com/fdroid
 ```
 
-If you're interested in building a similar repo, there's a [rough guide](https://github.com/alt-droid/fdroid/wiki/How-To-Create-an-F-Droid-Repo-(like-this-one)).
+If you're interested in building a similar repo, there's a [rough guide](https://github.com/alt-droid/alt-droid-foss/wiki/How-To-Create-an-F-Droid-Repo).
 
 <!--
 
